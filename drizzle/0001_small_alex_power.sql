@@ -1,0 +1,1 @@
+ALTER TABLE "survey_responses" ALTER COLUMN "user_id" SET DATA TYPE integer;
